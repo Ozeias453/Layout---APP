@@ -1,6 +1,6 @@
-# myapp
+# Layout APP
 
-A new Flutter project.
+Sistema Layout vinculada ao módulo 11 e realização da atividade 02.
 
 ## Getting Started
 
